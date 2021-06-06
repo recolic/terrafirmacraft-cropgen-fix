@@ -47,7 +47,7 @@ This is not necessary, but it would go a long way in supporting me and motivatin
 me to continue updating and improving this datapack tutorial! *(Perhaps in the*
   *future with more support I may even create a video tutorial)*
 
-<a href="https://www.buymeacoffee.com/Fackles"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Fackles&button_colour=7808b5&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00"></a>
+<a href="https://www.buymeacoffee.com/Fackles"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Fackles&button_colour=610184&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 
 Alternatively you can support my other joint projects like **Ragnarok Rebirth**!
 
